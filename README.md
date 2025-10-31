@@ -14,6 +14,10 @@ You start as a fox roaming through a lush forest environment.
 
 The game highlights the **interconnection between land and sea ecosystems**, encouraging exploration and curiosity.
 
+<img width="500" alt="Screenshot 2025-10-31 164113" src="https://github.com/user-attachments/assets/47a09afe-c39e-4ad1-b2cc-67aacc4f4660" />
+
+<img width="500" alt="Screenshot 2025-10-31 164349" src="https://github.com/user-attachments/assets/ae7710a5-78d0-4eb2-9f15-43eedaf05712" />
+
 ---
 
 ## 🎮 Installation and How to Play
